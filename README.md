@@ -1,6 +1,6 @@
 # Custom EditText
 
-# Simple Custom EditText for Android
+## Simple Custom EditText for Android
 
 #### Intro
 

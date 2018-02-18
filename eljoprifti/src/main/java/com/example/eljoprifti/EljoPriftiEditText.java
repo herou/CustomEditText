@@ -23,7 +23,6 @@ public class EljoPriftiEditText extends android.support.v7.widget.AppCompatEditT
     }
 
 
-
     public EljoPriftiEditText(Context context, AttributeSet attrs) {
         super(context, attrs);
     }

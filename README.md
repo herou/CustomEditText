@@ -9,8 +9,9 @@ Simple Custom EditText for Android
 ## Usage
 
 Adds drop-down to your layout via XML
-
+```
 <com.example.eljo.customedittext.EljoPriftiEditText
+
         android:id="@+id/edt_rounded"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -27,5 +28,6 @@ Adds drop-down to your layout via XML
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.391" />
+        
 </android.support.constraint.ConstraintLayout>
-
+```

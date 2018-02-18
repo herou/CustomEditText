@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/herou/CustomEditText.svg)](https://jitpack.io/#herou/CustomEditText)
+
 # Custom EditText
 
 Simple Custom EditText for Android

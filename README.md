@@ -78,7 +78,7 @@ Add EditText to your layout via XML
 
 
 ```
-## Usage
+Add EditText to your layout programatically
 
 ```
 public class MainActivity extends AppCompatActivity {
@@ -104,5 +104,24 @@ public class MainActivity extends AppCompatActivity {
         edt_bottomLine.init(edt_bottomLine,transitionsContainer,200,30,250,50);
 
     }
+}
+```
+
+## Download
+
+Jitpack : 
+```
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        maven { url 'https://jitpack.io' }
+    }
+}
+```
+Grandle :
+```
+dependencies {
+    implementation 'com.github.herou:CustomEditText:1.0'
 }
 ```

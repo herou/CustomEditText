@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         transitionsContainer = findViewById(R.id.transitions_container);
         edt_rounded = findViewById(R.id.edt_rounded);
         edt_rectangle = findViewById(R.id.edt_rectangle);

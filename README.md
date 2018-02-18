@@ -4,4 +4,8 @@
 
 #### Intro
 
-[url=https://imgflip.com/gif/24tigt][img]https://i.imgflip.com/24tigt.gif[/img][/url][url=https://imgflip.com/gifgenerator]via Imgflip GIF Maker[/url]
+[url=][img]https://i.imgflip.com/24tigt.gif[/img][/url][url=https://imgflip.com/gifgenerator]via Imgflip GIF Maker[/url]
+
+
+
+<a href="https://imgflip.com/gif/24tigt"><img src="https://imgflip.com/gif/24tigt" title=""/></a>

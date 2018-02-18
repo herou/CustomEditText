@@ -8,7 +8,7 @@ Simple Custom EditText for Android
 
 ## Usage
 
-Adds drop-down to your layout via XML
+Add EditText to your layout via XML
 ```
 <com.example.eljo.customedittext.EljoPriftiEditText
 

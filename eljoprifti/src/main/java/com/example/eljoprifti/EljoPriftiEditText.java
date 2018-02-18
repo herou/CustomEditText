@@ -22,7 +22,6 @@ public class EljoPriftiEditText extends android.support.v7.widget.AppCompatEditT
         util = new Util();
     }
 
-
     public EljoPriftiEditText(Context context, AttributeSet attrs) {
         super(context, attrs);
     }
@@ -30,7 +29,6 @@ public class EljoPriftiEditText extends android.support.v7.widget.AppCompatEditT
     public EljoPriftiEditText(Context context, AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
     }
-
 
     public static void init(final EljoPriftiEditText edt,final ViewGroup viewGroup, final int initWidth, final int initHeight, final int transitWidth, final int transitHeight){
         edt.setOnFocusChangeListener(new OnFocusChangeListener() {

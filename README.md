@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/herou/CustomEditText.svg)](https://jitpack.io/#herou/CustomEditText)
+[![](https://jitpack.io/v/herou/CustomEditText.svg)](https://jitpack.io/#herou/CustomEditText)  [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Custom%20EditText-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/6773)
 
 # Custom EditText
 
